@@ -4,7 +4,7 @@ body {
     color: #333;
     line-height: 1.6;
 }
-#tarolo {
+#container {
 
     background-color:white;
     color: black;
@@ -15,12 +15,12 @@ body {
     border-radius: 10px;
 }
 
-#fejlec{
+#header{
     text-align: center;
     margin-bottom: 20px;
 }
 
-#fejlec h1 {
+#header h1 {
     color: #222;
 }
 #menu a{
@@ -39,19 +39,19 @@ body {
     color: gold;
     background-color: orangered;
 }
-#tartalom h2 {
+#content h2 {
     margin-top: 20px;
     color:#005bb5;
 }
-#tartalom p {
+#content p {
     margin: 10px;
     line-height: 1.6;
 }
-#tartalom li {
+#content li {
     margin-bottom: 5px;
 }
 
-#lablec {
+#footer {
     margin-top: 30px;
     text-align: center;
     padding: 15px;
@@ -65,10 +65,4 @@ body {
   width: 500px;
   height: auto;
   margin-right: 40px;
-}
-.kisjobb-img {
-float: right;
-  width: 200px;
-  height: auto;
-  margin-right: 80px;
 }
